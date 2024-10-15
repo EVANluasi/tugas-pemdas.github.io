@@ -1,0 +1,12 @@
+body{
+    background: pink;
+}
+h1{
+    color: white;
+    font-family: Cambria;
+    text-align: center;
+}
+p{
+    color:blue;
+    text-align: justfy;
+}
